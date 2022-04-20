@@ -10,13 +10,16 @@
 
 ### Connect with me:
 
-[![website](./img/icons8-facebook.svg)](https://www.facebook.com/yeungan.070320/)
+[![website](./img/icons8-facebook.svg)](https://codestackr.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-dark.svg)](https://twitter.com/Phuc40817386)
+[![website](./img/twitter-light.svg)](https://twitter.com/Phuc40817386#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/Phuc40817386#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/tienphuc-dev/)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/tienphuc-dev/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/tienphuc-dev/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/hi_im_tien.phuc/)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/hi_im_tien.phuc/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/hi_im_tien.phuc/#gh-dark-mode-only)
 
 ### Languages and Tools:
 
