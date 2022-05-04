@@ -8,16 +8,13 @@
 - 🥅 2022 Goals: Learn more about Back-end and improve front-end skill
 - ⚡ Fun fact: I love to play foot ball !!
 
-### Connect with me:
-
-[![website](./img/icons8-facebook.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
+### Connect with me via:
 [![website](./img/twitter-light.svg)](https://twitter.com/Phuc40817386#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/Phuc40817386#gh-dark-mode-only)
-&nbsp;&nbsp;
+
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/tienphuc-dev/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/tienphuc-dev/#gh-dark-mode-only)
-&nbsp;&nbsp;
+
 [![website](./img/instagram-light.svg)](https://www.instagram.com/hi_im_tien.phuc/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/hi_im_tien.phuc/#gh-dark-mode-only)
 
